@@ -1,5 +1,14 @@
-### Hi there 👋
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> **Steven... not "_steeevin_"** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
+### _Currently I am..._
+- 📚 Studying computer science at [San Jose State University](https://www.sjsu.edu/)
+- 📓 Working as a student assistant for SJSU's [CS46A](https://catalog.sjsu.edu/preview_course_nopop.php?catoid=10&coid=42139) course
+
+### _What am I focusing on?_
+- Learning React at the moment!
+
+#### Besides Github...
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/steven-le-90b28b23b/)](https://www.linkedin.com/in/steven-le-90b28b23b/) 
 <!--
 **steeevin88/steeevin88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
