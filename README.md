@@ -1,11 +1,12 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> **Steven... not "_steeevin_"** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+## **Steven... not "steeevin"**
 
-### _Currently I am..._
+ Currently I am...
 - 📚 Studying computer science at [San Jose State University](https://www.sjsu.edu/)
-- 📓 Working as a student assistant for SJSU's [CS46A](https://catalog.sjsu.edu/preview_course_nopop.php?catoid=10&coid=42139) course
+- 📓 Working as a student assistant + grader for SJSU's [CS46A](https://catalog.sjsu.edu/preview_course_nopop.php?catoid=10&coid=42139) course
 
-### _What am I focusing on?_
+What am I focusing on?
 - Learning React at the moment!
+- Leetcode.
 
 #### Besides Github...
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/steven-le-90b28b23b/)](https://www.linkedin.com/in/steven-le-90b28b23b/) 
