@@ -1,12 +1,12 @@
 ## **Steven... not "steeevin"**
 
- Currently I am...
+ Currently, I am...
 - 📚 Studying computer science at [San Jose State University](https://www.sjsu.edu/)
 - 📓 Working as a student assistant + grader for SJSU's [CS46A](https://catalog.sjsu.edu/preview_course_nopop.php?catoid=10&coid=42139) course
 
 What am I focusing on?
-- Learning React at the moment!
-- Leetcode.
+- Practicing problems for coding interviews
+- Working on personal projects
 
 #### Besides Github...
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/steven-le-90b28b23b/)](https://www.linkedin.com/in/steven-le-90b28b23b/) 
