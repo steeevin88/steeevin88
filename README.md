@@ -1,26 +1,16 @@
-## **Steven... not "steeevin"**
+## **Steven... not "Steeevin" 🤦‍♂️** 
+
+Hey! Thanks for visiting my Github.
 
  Currently, I am...
 - 📚 Studying computer science at [San Jose State University](https://www.sjsu.edu/)
-- 📓 Working as a student assistant + grader for SJSU's [CS46A](https://catalog.sjsu.edu/preview_course_nopop.php?catoid=10&coid=42139) course
+- 📓 Working as an instructional student assistant for SJSU's [CS46A](https://catalog.sjsu.edu/preview_course_nopop.php?catoid=10&coid=42139) course
 
 What am I focusing on?
 - Practicing problems for coding interviews
-- Working on personal projects
+- Building new personal projects
+- Learning new technologies and frameworks
 
-#### Besides Github...
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/steven-le-90b28b23b/)](https://www.linkedin.com/in/steven-le-90b28b23b/) 
-<!--
-**steeevin88/steeevin88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Connect with me or check out my website!
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-le-90b28b23b/) 
+[![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://steeevin88.github.io/stevens-webpage/)
