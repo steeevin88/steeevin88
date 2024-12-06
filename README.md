@@ -13,5 +13,5 @@ What am I focusing on?
 
 #### Connect with me or check out my website!
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-le-90b28b23b/) 
-[![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://stevenle.tech)
+[![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://stevenle.is-a.dev)
 [![Devpost Badge](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/steeevin88?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
